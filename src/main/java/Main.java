@@ -3,7 +3,6 @@ import Animals.Cat;
 import Animals.Dog;
 
 public class Main {
-
     public static void main(String[] args) {
         Animal dogFedor = new Dog("Федор", "Рыжий");
         dogFedor.run(200);
